@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fjallraven Backpack",
+      "price": "1900.01",
+      "description": "Perfect backpack for everyday use and walks in the forest. Fits laptops up to 15 inches.",
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/71pC69I3lzL._UL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Samsung Galaxy S23 Ultra",
+      "price": "124999",
+      "description": "Flagship smartphone with 200MP camera and AMOLED display.",
+      "category": "electronics",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s918bzgcins/gallery/in-galaxy-s23-ultra-5g-s918-sm-s918bzgcins-534795734?$650_519_PNG$"
+    },
+    {
+      "id": "5",
+      "title": "Sony WH-1000XM5 Headphones",
+      "price": "29999",
+      "description": "Industry-leading noise-cancelling wireless headphones.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51SKmu2G8RL._SL1500_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Apple MacBook Air M2",
+      "price": "114999",
+      "description": "Ultra-thin laptop with M2 chip and 13.6-inch Retina display.",
+      "category": "electronics",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba13-silver-select-20220606"
+    },
+    {
+      "id": "7",
+      "title": "Men's Leather Jacket",
+      "price": "4500",
+      "description": "Genuine leather biker jacket, slim fit design.",
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/71VJQ2bU1pL._UL1500_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Women's Summer Dress",
+      "price": "1200",
+      "description": "Floral print dress for casual outings and summer wear.",
+      "category": "women's clothing",
+      "image": "https://m.media-amazon.com/images/I/71xp+KLR6tL._UL1500_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Organic Almonds 500g",
+      "price": "650",
+      "description": "Crunchy, protein-rich almonds with healthy fats.",
+      "category": "food",
+      "image": "https://m.media-amazon.com/images/I/71Q7QZv9FOL._SL1500_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Adidas Football",
+      "price": "1800",
+      "description": "Professional Adidas football for matches and training.",
+      "category": "sports",
+      "image": "https://m.media-amazon.com/images/I/81YMSYJ9yZL._SL1500_.jpg"
+    },
+    {
+      "id": "132",
+      "title": "adapter",
+      "price": "1238",
+      "description": "this is 25 watt adapter",
+      "category": "electronics",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.f5luclM5snl3DoDzST5FjgHaE7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "345",
+      "title": "kellogs",
+      "price": "30",
+      "description": "kellogs rolled oats",
+      "category": "food",
+      "image": "https://images.kglobalservices.com/www.kelloggs.in/en_in/product/product_2501765/prod_img-941389_in_8901499007704_p_1.png"
+    },
+    {
+      "id": "123",
+      "title": "iphone 15 pro max ",
+      "price": "100000",
+      "description": "Apple iphone",
+      "category": "electronics",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/a/r/5/-original-imagtc3kcmph6ax5.jpeg?q=70&crop=false"
+    }
+  ],
+  "users": [
+    {
+      "id": "GqxFKB2siHNWW5_HLoGXO",
+      "username": "Mohitn53",
+      "email": "mohitnirmal014@gmail.com",
+      "password": "121212",
+      "confirmPassword": "123456",
+      "isAdmin": true,
+      "cart": [
+        {
+          "product": {
+            "id": "7",
+            "title": "Men's Leather Jacket",
+            "price": "4500",
+            "description": "Genuine leather biker jacket, slim fit design.",
+            "category": "men's clothing",
+            "image": "https://m.media-amazon.com/images/I/71VJQ2bU1pL._UL1500_.jpg"
+          },
+          "quantity": 11
+        }
+      ]
+    },
+    {
+      "id": "CTSzqVChCl_xQVn0KBE8B",
+      "username": "Siddhi",
+      "email": "siddhi1234@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "4",
+            "title": "Banana",
+            "price": "10",
+            "description": "this is real Banana",
+            "category": "food",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+          },
+          "quantity": 12
+        },
+        {
+          "product": {
+            "id": "1",
+            "title": "Fjallraven Backpack",
+            "price": "1900.01",
+            "description": "Perfect backpack for everyday use and walks in the forest. Fits laptops up to 15 inches.",
+            "category": "men's clothing",
+            "image": "https://m.media-amazon.com/images/I/71pC69I3lzL._UL1500_.jpg"
+          },
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "2QbU3cVQPJei72jDzEiEC",
+      "username": "MohitlovesSiddhi",
+      "email": "mohitsiddhi@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "FRcjQX76CiLnbkQ9Gya8V",
+      "username": "Mohit",
+      "email": "mlm@okjo.sd",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "78T22p_PHfrQB94JUvX9M",
+      "username": "admin",
+      "email": "admin123@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "isAdmin": false,
+      "cart": []
+    }
+  ]
+}
